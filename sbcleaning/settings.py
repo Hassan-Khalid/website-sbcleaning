@@ -30,9 +30,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['34.224.36.137','sb-cleaning.herokuapp.com']
 
-import djnag0_heroku
+#import djnag0_heroku
 
-django_heroku.settings(locals())
+#django_heroku.settings(locals())
 
 
 
