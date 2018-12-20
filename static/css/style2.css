@@ -1,0 +1,113 @@
+.item-font-color {
+  color: #cc3307;
+}
+
+.section-title {
+  font-size: 30px;
+  font-weight: bolder;
+  font-style: oblique;
+}
+
+
+.p-intro{
+  font-size: 15px;
+}
+
+.promotion-title {
+  color: Black;
+}
+
+
+.item-desc{
+  font-size: 17px;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 200px;
+  margin:5px;
+  padding:4px;
+  text-align: center;
+  font-family: arial;
+}
+
+.title-br{
+  color: grey;
+  font-size: 18px;
+}
+
+.title-head {
+  font-size: 17px;
+  font-family: sans-serif
+  color:rbg(23,23,23)
+}
+
+
+table{
+	margin: auto;
+}
+table td {
+	margin: 15px;
+	width: 250px;
+	height: 215px;
+	padding:200px;
+	table-layout: unset;
+	float:left;
+}
+
+#f {
+	background-color: #3fcacc;
+	padding:5px;
+
+}
+#s {
+	background-color: #4a9ccf;
+	padding:5px;
+}
+
+#t {
+	background-color: #7d4acf;
+	padding:5px;}
+#fr {
+	background-color: #cc3f86;
+	padding:5px;}
+#fv {
+	background-color: #cc983f;
+	padding:5px;
+}
+
+#hk {
+	background-color:#339966;
+	padding:5px;
+}
+
+#gr {
+	background-color: #e67300;
+	padding:5px;
+}
+
+
+#ad {
+	background-color:#ff6633;
+	padding:5px;
+}
+
+#ac {
+	background-color: #b366ff;
+	padding:5px;
+}
+
+#ab {
+	background-color: #ff3333;
+	padding:5px;
+}
+
+#aa {
+	background-color:#3366cc;
+	padding:5px;
+}
+
+#ae {
+	background-color: #00b3b3;
+	padding:5px;
+}
