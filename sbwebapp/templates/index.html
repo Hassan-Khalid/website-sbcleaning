@@ -1,5 +1,5 @@
 {% extends 'base.html'%}
-
+{%load 'staticfiles' %}
 {% block page %}
         <!-- BEGIN #slider -->
         <div id="slider" class="section-container p-0 bg-black-darker">
@@ -152,8 +152,7 @@
 
 
 																		<!-- Box Clients -->
-																		<div class="col-md-2 col-sm-4">
-																		<div class="item item-thumbnail">
+																		<div class="col-md-2 col-sm-4">														<div class="item item-thumbnail">
 																				<a href="#" class="item-image">
 																								<img src="{% static 'img/sgrm.png' %}" alt=""  />
 																					</a>
