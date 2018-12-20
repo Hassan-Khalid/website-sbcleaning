@@ -22,7 +22,7 @@ from sbcleaning import settings
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('sbcleaning/', include('sbwebapp.urls')),
-    path('sb-cleaning.herokuapp.com/',views.main_page,name= 'index.html'),
+    path('sb-cleaning.herokuapp.com/index',views.main_page,name= 'index.html'),
     path('index/contact_us/',views.contact_page,name= 'contact_us.html'),
     path('index/clients/',views.client_page,name= 'clients.html'),
     path('index/team/',views.team_page,name= 'team.html')
