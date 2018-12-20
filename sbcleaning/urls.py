@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """sbcleaning URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
@@ -30,7 +30,7 @@ urlpatterns = [
 
 
 ]+ static(settings.STATIC_URL,document_root=settings.STATICFILES_DIRS)
-=======
+
 """sbcleaning URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
@@ -62,4 +62,4 @@ urlpatterns = [
 
 
 ]+ static(settings.STATIC_URL,document_root=settings.STATICFILES_DIRS)
->>>>>>> deploying website
+
