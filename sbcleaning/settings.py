@@ -162,7 +162,7 @@ SECRET_KEY = '3#o8%f969*hc%bnd@0)@s2##b3q)jvrs_p*w&=&sbk+z5g3wt6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['34.224.36.137','sb-cleaning.herokuapp.com']
 
 
 # Application definition
