@@ -133,7 +133,7 @@ STATIC_URL = '/static/'
 
 MEDIA_URL = '/img/'
 MEDIA_ROOT = os.path.join('STATICFILES_DIRS', "img")
-=======
+
 """
 Django settings for sbcleaning project.
 
@@ -263,4 +263,3 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 MEDIA_URL = '/img/'
 MEDIA_ROOT = os.path.join('STATICFILES_DIRS', "img")
-
