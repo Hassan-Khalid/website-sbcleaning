@@ -24,8 +24,8 @@ urlpatterns = [
     path('sbcleaning/', include('sbwebapp.urls')),
     path('index',views.main_page,name= 'index.html'),
     path('contact_us/',views.contact_page,name= 'contact_us.html'),
-    path('34.224.36.137/clients/',views.client_page,name= 'clients.html'),
-    path('34.224.36.137/team/',views.team_page,name= 'team.html')
+    path('clients/',views.client_page,name= 'clients.html'),
+    path('team/',views.team_page,name= 'team.html')
 
 
 
